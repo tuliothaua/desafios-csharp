@@ -9,17 +9,17 @@
 
 
         Console.WriteLine("\n- Insira seu nome: ");
-        string nome = Console.ReadLine();
+        string nome = Console.ReadLine()!;
 
         Console.WriteLine("\n- Insira seu salário: ");
-        decimal oldsalary = decimal.Parse(Console.ReadLine());
+        decimal oldsalary = decimal.Parse(Console.ReadLine()!);
 
         Console.WriteLine("\n- Insira seu código de acordo com seu cargo: ");
         Console.WriteLine("\nCòdigo  ---  Cargo");
         Console.WriteLine("\n1     --- Gerente");
         Console.WriteLine("\n2     --- Engenheiro");
         Console.WriteLine("\n3     --- Técnico");
-        choice = int.Parse(Console.ReadLine());
+        choice = int.Parse(Console.ReadLine()!);
 
         switch (choice)
         {
