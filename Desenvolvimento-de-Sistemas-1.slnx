@@ -9,6 +9,10 @@
     <Project Path="Desenvolvimento-de-Sistemas-1/OldNewSalary/OldNewSalary.csproj" />
     <Project Path="Desenvolvimento-de-Sistemas-1/Tupla/Tupla.csproj" />
   </Folder>
+  <Folder Name="/Desenvolvimento-de-Sistemas-1/Herança/">
+    <Project Path="Desenvolvimento-de-Sistemas-1/Herança/AplicaçãoHerança/AplicaçãoHerança.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/Herança/ClassesHerança/ClassesHerança.csproj" />
+  </Folder>
   <Folder Name="/Desenvolvimento-de-Sistemas-1/Laboratorio-Biblioteca-POO/">
     <Project Path="Desenvolvimento-de-Sistemas-1/Laboratorio-Biblioteca-POO/Biblioteca/Biblioteca.csproj" />
   </Folder>
