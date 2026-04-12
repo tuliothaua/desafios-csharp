@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Desenvolvimento-de-Sistemas-1/">
+    <Project Path="Desenvolvimento-de-Sistemas-1/AgoraEuEntendo/AgoraEuEntendo.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/AnaliseValoresDecimais/AnaliseValoresDecimais.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/Cultura/Cultura.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/HelloWorld/HelloWorld.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/MediaFinal/MediaFinal.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/NumerosSomaMultiplica/NumerosSomaMultiplica.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/OldNewSalary/OldNewSalary.csproj" />
+    <Project Path="Desenvolvimento-de-Sistemas-1/Tupla/Tupla.csproj" />
+  </Folder>
+  <Folder Name="/Desenvolvimento-de-Sistemas-1/Laboratorio-Biblioteca-POO/">
+    <Project Path="Desenvolvimento-de-Sistemas-1/Laboratorio-Biblioteca-POO/Biblioteca/Biblioteca.csproj" />
+  </Folder>
+</Solution>
