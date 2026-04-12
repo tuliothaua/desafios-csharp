@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AplicaçãoHerança/AplicaçãoHerança.csproj" />
+  <Project Path="ClassesHerança/ClassesHerança.csproj" />
+</Solution>
