@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AplicacaoHeranca/AplicacaoHeranca.csproj" />
+  <Project Path="ClassesHeranca/ClassesHeranca.csproj" />
+</Solution>
